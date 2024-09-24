@@ -1,4 +1,4 @@
-import logo from "../assets/LL-Logo.png";
+import logo from "../assets/LL-Logo.webp";
 import postcard from "../assets/postcard.svg";
 import playbutton from "../assets/play-btn.svg";
 import puzzle from "../assets/puzzle.svg";
@@ -52,7 +52,7 @@ const NavBar = () => {
             <img
               src={laptop}
               alt="Get the App"
-              className="h-6 w-6 md:h-7 md:w-7"
+              className=" md:h-7 md:w-7"
             />
             <span className="whitespace-pre">Get the App</span>
           </div>

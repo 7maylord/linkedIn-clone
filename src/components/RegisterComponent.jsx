@@ -30,7 +30,7 @@ export default function RegisterComponent() {
   };
 
   return (
-    <div className="bg-white h-screen flex flex-col justify-center items-center">
+    <div className="bg-lightgrey h-screen flex flex-col justify-center items-center">
       <img src={LinkedinLogo} className="w-[80px]" alt="LinkedIn Logo" />
 
       <div className="flex flex-col justify-center items-center">
