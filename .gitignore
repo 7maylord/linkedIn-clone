@@ -1,4 +1,5 @@
-# compiled output
+.env
+.env.development
 /dist
 /node_modules
 /build
